@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "282416152597",
+    "firebase_url": "https://fast-taxi-5bb43-default-rtdb.firebaseio.com",
+    "project_id": "fast-taxi-5bb43",
+    "storage_bucket": "fast-taxi-5bb43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282416152597:android:52cacfd915084c903a8e1c",
+        "android_client_info": {
+          "package_name": "com.fast_taxi_customer.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282416152597-v181d7g37ks7oamrd366hfoito0gq9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZO4ruLy3KH5XDqPZ5jvaFMLtgRj0SKnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282416152597-v181d7g37ks7oamrd366hfoito0gq9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282416152597:android:bf1a5bb8f8bf27343a8e1c",
+        "android_client_info": {
+          "package_name": "com.fast_taxi_driver.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "282416152597-v181d7g37ks7oamrd366hfoito0gq9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZO4ruLy3KH5XDqPZ5jvaFMLtgRj0SKnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "282416152597-v181d7g37ks7oamrd366hfoito0gq9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "fast_taxi",
+  "displayName": "Fast Taxi",
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "31a13906-1e07-456d-b772-6c9255c3c0f4"
+      }
+    }
+  }
+}
